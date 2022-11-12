@@ -24,7 +24,15 @@
 </div>
 
 ### :boy: About Me :
-📘 Currently studying Bsc Honours in Information Technology at the University of Johannesburg.
+🎓 Currently studying Bsc Honours in Information Technology at the University of Johannesburg.
+
+- 🏏 I love cricket and squash 🎾
+- 🖌️ I really enjoy sketching and making 3D models using recyclable materials.
+- 💻 Computer vision nerd
+
+### 📈 Projects I've Worked On:
+- NEAT for Speed: Autonomous vehicle navigation control simulation using Neuroevolution of Augmenting Topologies. Top 3 at UJ's 36th Projects Day.
+- Neurove: A comprehensive Machine learning project
 
 
 ### :hammer_and_wrench: Languages and Tools :
