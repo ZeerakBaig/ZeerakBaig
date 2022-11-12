@@ -47,10 +47,16 @@
   <img src="https://github.com/devicons/devicon/blob/master/icons/visualstudio/visualstudio-plain-wordmark.svg" title="Git" **alt="Git" width="40" height="40"/>
 </div>
 
-### :fire: My Stats :
-
+## <img src="https://media.giphy.com/media/iY8CRBdQXODJSCERIr/giphy.gif" width="35"><b> Github Stats </b>
+![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=ZeerakBaig&show_icons=true&theme=radical)
 [![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=ZeerakBaig&theme=dark&background=000000)](https://git.io/streak-stats)
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=ZeerakBaig&layout=compact&theme=vision-friendly-dark)](https://github.com/anuraghazra/github-readme-stats)
+
+<summary><b>⚡ Recent GitHub Activity</b></summary>
+<br/>
+<a href="https://github.com/ZeerakBaig"><img alt="Zeerak's Activity Graph" src="https://activity-graph.herokuapp.com/graph?username=ZeerakBaig&custom_title=Zeerak's%20Contribution%20Graph&theme=react-dark" /></a>
+<br/>
+<br/>
 
 
 
