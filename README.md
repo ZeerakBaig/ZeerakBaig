@@ -23,6 +23,9 @@
   <img src="https://media.giphy.com/media/dWesBcTLavkZuG35MI/giphy.gif" width="600" height="300"/>
 </div>
 
+### :boy: About Me :
+📘 Currently studying Bsc Honours in Information Technology at the University of Johannesburg.
+
 
 ### :hammer_and_wrench: Languages and Tools :
 
