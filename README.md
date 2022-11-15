@@ -62,7 +62,7 @@
 </div>
 
 ## <img src="https://media.giphy.com/media/iY8CRBdQXODJSCERIr/giphy.gif" width="35"><b> Github Stats </b>
-![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=ZeerakBaig&show_icons=true&theme=radical)
+![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=ZeerakBaig&show_icons=true&theme=radical&count_private=true)
 [![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=ZeerakBaig&theme=dark&background=000000)](https://git.io/streak-stats)
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=ZeerakBaig&layout=compact&theme=vision-friendly-dark)](https://github.com/anuraghazra/github-readme-stats)
 
