@@ -65,7 +65,7 @@ to share the projects along with their research papers on request 🙂.
   <img src="https://github.com/devicons/devicon/blob/master/icons/visualstudio/visualstudio-plain-wordmark.svg" title="Visual Studio" **alt="Visual Studio" width="40" height="40"/>
 </div>
 
-## Certificates
+## ![image](https://user-images.githubusercontent.com/63865869/202436686-c7b9b5f4-eef6-4f6b-a5a2-d268ec297e86.png)Certificates
 Nvidia Certificate in Fundamentals of Deep Learning
 
 ## <img src="https://media.giphy.com/media/iY8CRBdQXODJSCERIr/giphy.gif" width="35"><b> Github Stats </b>
