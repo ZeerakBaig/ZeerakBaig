@@ -32,6 +32,9 @@
 
 ### 📈 Projects I've Worked On:
 
+**Note:** Please note that all my repositories are currently private because they are my research projects forming part of my Honours degree. But I am happy
+to share the projects on request 🙂.
+
 - <img src="https://github.com/ZeerakBaig/Neat-for-Speed/blob/master/Logo6.png" width=5% height=5%> **NEAT for Speed:** Autonomous vehicle navigation control simulation using Neuroevolution of Augmenting Topologies. Top 3 at UJ's 36th Projects Day. [Find out more](https://github.com/ZeerakBaig/Neat-for-Speed)
 - <img src="https://github.com/ZeerakBaig/Neurove/blob/main/NeuroveLogo.png?raw=true" width=5% height=5%> **Neurove:** Neurove is an extensive biometrics project aimed to detect facial paralysis in facial images. The project demonstrates a comparison between traditional machine learning techniques versus Deep learning techniques. [Find out more](https://github.com/ZeerakBaig/Neurove)
 - **Galaxy Morphology Classification:** A vision transformer based architecture for galaxy morphology classification. [Find out more](https://github.com/ZeerakBaig/Galaxy-Morphology-Classification)
