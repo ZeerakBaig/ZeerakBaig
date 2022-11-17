@@ -39,8 +39,7 @@ to share the projects on request 🙂.
 - <img src="https://github.com/ZeerakBaig/Neurove/blob/main/NeuroveLogo.png?raw=true" width=5% height=5%> **Neurove:** Neurove is an extensive biometrics project aimed to detect facial paralysis in facial images. The project demonstrates a comparison between traditional machine learning techniques versus Deep learning techniques. [Find out more](https://github.com/ZeerakBaig/Neurove)
 -  ![image](https://user-images.githubusercontent.com/63865869/202414977-45298ca7-a9ba-4c48-b528-614b19bc7121.png)
 **Galaxy Morphology Classification:** A vision transformer based architecture for galaxy morphology classification. [Find out more](https://github.com/ZeerakBaig/Galaxy-Morphology-Classification)
--<img src="https://user-images.githubusercontent.com/63865869/202416218-02b21d08-3ecf-4233-8d82-57892db4f38e.png" width=5% height=5%>
- **Deep fake Recognition System:** Image based deep fake recognition system using a pure vision transformer architecture along with Efficient Net B7 architecture for a comparative analysis. [Find out more](https://github.com/ZeerakBaig/Deep-Fake-Recognition)
+- <img src="https://user-images.githubusercontent.com/63865869/202416218-02b21d08-3ecf-4233-8d82-57892db4f38e.png" width=5% height=5%>**Deep fake Recognition System:** Image based deep fake recognition system using a pure vision transformer architecture along with Efficient Net B7 architecture for a comparative analysis. [Find out more](https://github.com/ZeerakBaig/Deep-Fake-Recognition)
 
 
 ### :hammer_and_wrench: Languages and Tools :
