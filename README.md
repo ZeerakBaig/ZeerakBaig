@@ -67,7 +67,7 @@ to share the projects along with their research papers on request 🙂.
 </div>
 
 ## ![image](https://user-images.githubusercontent.com/63865869/202436686-c7b9b5f4-eef6-4f6b-a5a2-d268ec297e86.png)Certificates
-- ![Nvidia](https://img.shields.io/badge/NVIDIA-GTX1650-76B900?style=for-the-badge&logo=nvidia&logoColor=white) Nvidia Certificate in Fundamentals of Deep Learning
+- ![Nvidia](https://img.shields.io/badge/NVIDIA-76B900?style=for-the-badge&logo=nvidia&logoColor=white) Nvidia Certificate in Fundamentals of Deep Learning
 - ![Machine Learning, Data Science and Deep learning with python](https://img.shields.io/badge/Udemy-EC5252?style=for-the-badge&logo=Udemy&logoColor=white) Certificate of completion: Machine learning, Data science and Deep learning in python
 
 ## <img src="https://media.giphy.com/media/iY8CRBdQXODJSCERIr/giphy.gif" width="35"><b> Github Stats </b>
