@@ -4,7 +4,7 @@
 
 <div id="badges" align="center">
   <div id="header">
-  <a href="www.linkedin.com/in/zeerak-baig-6537b5205">
+  <a href="https://www.linkedin.com/in/zeerak-baig-6537b5205">
     <img src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn Badge"/>
   </a>
   <a href="https://www.youtube.com/channel/UCPcRBHchnuFVQvoqMwk-jFA">
