@@ -41,7 +41,7 @@ Please note that all the projects form part of my honours degree and are current
 -  ![image](https://user-images.githubusercontent.com/63865869/202414977-45298ca7-a9ba-4c48-b528-614b19bc7121.png)
 **Galaxy Morphology Classification:** A vision transformer based architecture for galaxy morphology classification. [Find out more](https://github.com/ZeerakBaig/Galaxy-Morphology-Classification)
 - <img src="https://user-images.githubusercontent.com/63865869/202416218-02b21d08-3ecf-4233-8d82-57892db4f38e.png" width=5% height=10%>**Deep fake Recognition System:** Image based deep fake recognition system using a pure vision transformer architecture along with Efficient Net B7 architecture for a comparative analysis. [Find out more](https://github.com/ZeerakBaig/Deep-Fake-Recognition)
-- <img src="https://github.com/ZeerakBaig/ZeerakBaig/blob/main/curaMonkeyBody.png" width=5% height=10%> **cura**: mobile app and webapp for children, guardians, and psychologists. Top 2 and Best Website at UJ's 35th Projects Day. [Find out more](https://github.com/ZeerakBaig/cura/tree/master)
+- <img src="https://github.com/ZeerakBaig/ZeerakBaig/blob/main/curaMonkeyBody.png" width=5% height=10%> **cura**: mobile app and webapp for children, guardians, and psychologists. Top 2 and Best Website at UJ's 35th Projects Day 2020. [Find out more](https://github.com/ZeerakBaig/cura/tree/master)
 
 
 ### :hammer_and_wrench: Languages and Tools :
