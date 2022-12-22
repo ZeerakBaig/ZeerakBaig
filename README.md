@@ -24,7 +24,7 @@
 </div>
 
 ### :boy: About Me :
-🎓 Currently studying Bsc Honours in Information Technology at the University of Johannesburg.
+🎓 Bsc Honours graduate in Information Technology at the University of Johannesburg.
 
 - 🏏 I love cricket and squash 🎾
 - 🖌️ I really enjoy sketching and making 3D models using recyclable materials.
