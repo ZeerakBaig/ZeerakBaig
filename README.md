@@ -26,10 +26,6 @@
 - 🖌️ I enjoy sketching and making 3D models using recyclable materials.
 - 💻 Computer vision nerd
 
-
-### Note
-Please note that all the projects form part of my honours degree and are currently in the process of being released as open source ☺️. 
-
 ### 📈 Projects I've Worked On:
 
 - <img src="https://github.com/ZeerakBaig/ZeerakBaig/blob/main/NEAT_Logo.png" width=5% height=5%> **NEAT for Speed:** Autonomous vehicle navigation control simulation using Neuroevolution of Augmenting Topologies. Top 3 at UJ's 36th Projects Day. [Find out more](https://github.com/ZeerakBaig/Neat-for-Speed)
