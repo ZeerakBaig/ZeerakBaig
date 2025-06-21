@@ -20,10 +20,10 @@
 </div>
 
 ### :boy: About Me :
-🎓 Bsc Honours graduate in Information Technology at the University of Johannesburg.
+🎓 Software Engineer at BBD Software.
 
 - 🏏 I love cricket and squash 🎾
-- 🖌️ I really enjoy sketching and making 3D models using recyclable materials.
+- 🖌️ I enjoy sketching and making 3D models using recyclable materials.
 - 💻 Computer vision nerd
 
 
@@ -64,6 +64,8 @@ Please note that all the projects form part of my honours degree and are current
 </div>
 
 ## ![image](https://user-images.githubusercontent.com/63865869/202436686-c7b9b5f4-eef6-4f6b-a5a2-d268ec297e86.png)Certificates
+- ![AWS](https://img.shields.io/badge/Amazon_Web_Services-FF9900?style=for-the-badge&logo=amazonwebservices&logoColor=white) AWS Certified Machine Learning Engineer - Associate
+- ![AWS](https://img.shields.io/badge/Amazon_Web_Services-FF9900?style=for-the-badge&logo=amazonwebservices&logoColor=white) AWS Certified Developer - Associate
 - ![Nvidia](https://img.shields.io/badge/NVIDIA-76B900?style=for-the-badge&logo=nvidia&logoColor=white) Nvidia Certificate in Fundamentals of Deep Learning
 - ![Machine Learning, Data Science and Deep learning with python](https://img.shields.io/badge/Udemy-EC5252?style=for-the-badge&logo=Udemy&logoColor=white) Certificate of completion: Machine learning, Data science and Deep learning in python
 
