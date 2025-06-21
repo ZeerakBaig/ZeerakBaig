@@ -7,9 +7,9 @@
   <a href="https://www.linkedin.com/in/zeerak-baig-6537b5205">
     <img src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn Badge"/>
   </a>
-  <a href="https://www.youtube.com/channel/UCPcRBHchnuFVQvoqMwk-jFA">
+<!--   <a href="https://www.youtube.com/channel/UCPcRBHchnuFVQvoqMwk-jFA">
     <img src="https://img.shields.io/badge/YouTube-red?style=for-the-badge&logo=youtube&logoColor=white" alt="Youtube Badge"/>
-  </a>
+  </a> -->
 </div>
   <img src="https://komarev.com/ghpvc/?username=ZeerakBaig&style=flat-square&color=blue" alt=""/>
   
